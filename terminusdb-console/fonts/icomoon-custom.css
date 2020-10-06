@@ -1,0 +1,272 @@
+@font-face {
+  font-family: 'icomoon-custom';
+  src:  url('./icomoon-custom.eot?5hqtk3');
+  src:  url('./icomoon-custom.eot?5hqtk3#iefix') format('embedded-opentype'),
+    url('./icomoon-custom.ttf?5hqtk3') format('truetype'),
+    url('./icomoon-custom.woff?5hqtk3') format('woff'),
+    url('./icomoon-custom.svg?5hqtk3#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="custom-img"], [class*="custom-img"] {
+    font-family: 'icomoon-custom' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-decoration: none;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.custom-img-demographic-42x42:before {
+  content: "\e900";
+}
+.custom-img-demographic:before {
+  content: "\e901";
+}
+.custom-img-history-hourglass-42x42:before {
+  content: "\e902";
+}
+.custom-img-history-hourglass:before {
+  content: "\e903";
+}
+.custom-img-stock-42x42:before {
+  content: "\e904";
+}
+.custom-img-stock:before {
+  content: "\e905";
+}
+.custom-img-weather_42x42:before {
+  content: "\e906";
+}
+.custom-img-weather:before {
+  content: "\e907";
+}
+.custom-img-business-42x42:before {
+  content: "\e908";
+}
+.custom-img-business:before {
+  content: "\e909";
+}
+.custom-img-choice:before {
+  content: "\e90a";
+}
+.custom-img-classes:before {
+  content: "\e90b";
+}
+.custom-img-clock-42x42:before {
+  content: "\e90c";
+}
+.custom-img-clock:before {
+  content: "\e90d";
+}
+.custom-img-container:before {
+  content: "\e90e";
+}
+.custom-img-edit-42x42:before {
+  content: "\e90f";
+}
+.custom-img-entities:before {
+  content: "\e910";
+}
+.custom-img-geographic:before {
+  content: "\e911";
+}
+.custom-img-history:before {
+  content: "\e912";
+}
+/*.custom-img-history:before {
+  content: "\e913";
+}*/
+.custom-img-info:before {
+  content: "\e914";
+}
+.custom-img-inherit-line:before {
+  content: "\e915";
+}
+.custom-img-inherit:before {
+  content: "\e916";
+}
+.custom-img-manufacture_42x42:before {
+  content: "\e917";
+}
+.custom-img-manufacture:before {
+  content: "\e918";
+}
+.custom-img-number_alt:before {
+  content: "\e919";
+}
+.custom-img-number_42x42:before {
+  content: "\e91a";
+}
+.custom-img-people_42x42:before {
+  content: "\e91b";
+}
+.custom-img-people:before {
+  content: "\e91c";
+}
+.custom-img-places42x42:before {
+  content: "\e91d";
+}
+.custom-img-places:before {
+  content: "\e91e";
+}
+.custom-img-politics_42x42:before {
+  content: "\e91f";
+}
+.custom-img-politics:before {
+  content: "\e920";
+}
+.custom-img-relationship:before {
+  content: "\e921";
+}
+.custom-img-retail_42x42:before {
+  content: "\e922";
+}
+.custom-img-retail:before {
+  content: "\e923";
+}
+.custom-img-string:before {
+  content: "\e924";
+}
+.custom-img-transactions:before {
+  content: "\e925";
+}
+.custom-img-supply_42x42:before {
+  content: "\e926";
+}
+.custom-img-supply:before {
+  content: "\e927";
+}
+.custom-img-tag-42x42:before {
+  content: "\e928";
+}
+.custom-img-temporal-range:before {
+  content: "\e929";
+}
+.custom-img-temporal:before {
+  content: "\e92a";
+}
+.custom-img-timeline42x42:before {
+  content: "\e92b";
+}
+.custom-img-transactions_42x42:before {
+  content: "\e92c";
+}
+.custom-img-view:before {
+  content: "\e92d";
+}
+.custom-img-risk_42x42:before {
+  content: "\e92e";
+}
+.custom-img-graph_person:before {
+  content: "\e92f";
+}
+.custom-img-graph_corporate:before {
+  content: "\e930";
+}
+
+.custom-img-alert:before {
+  content: "\e932";
+  color: #ff0000;
+}
+
+/*.custom-img-alert .path1:before {
+  content: "\e931";
+  color: rgb(35, 31, 32);
+}
+.custom-img-alert .path2:before {
+  content: "\e932";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}*/
+.custom-img-small_dart_down:before {
+  content: "\e933";
+}
+.custom-img-small_dart_right:before {
+  content: "\e934";
+}
+.custom-img-table_corp:before {
+  content: "\e935";
+}
+.custom-img-table_person:before {
+  content: "\e936";
+}
+.custom-img-scrubber .path1:before {
+  content: "\e937";
+  color: rgb(35, 31, 32);
+}
+.custom-img-scrubber .path2:before {
+  content: "\e938";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.custom-img-forward:before {
+  content: "\e939";
+}
+.custom-img-rewind:before {
+  content: "\e93a";
+}
+.custom-img-play:before {
+  content: "\e93b";
+}
+.custom-img-grip:before {
+  content: "\e93c";
+}
+.custom-img-dart_up:before {
+  content: "\e93d";
+}
+.custom-img-dart_down:before {
+  content: "\e93e";
+}
+.custom-img-edit:before {
+  content: "\e93f";
+}
+.custom-img-import_colour .path1:before {
+  content: "\e940";
+  color: rgb(29, 173, 251);
+}
+.custom-img-import_colour .path2:before {
+  content: "\e941";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.custom-img-import_colour .path3:before {
+  content: "\e942";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.custom-img-import:before {
+  content: "\e943";
+}
+.custom-img-close:before {
+  content: "\e944";
+}
+.custom-img_line:before {
+  content: "\e945";
+}
+.custom-img_line_21x21:before {
+  content: "\e946";
+}
+.custom-img_map:before {
+  content: "\e947";
+}
+.custom-img_map_21x21:before {
+  content: "\e948";
+}
+.custom-img_table:before {
+  content: "\e949";
+}
+.custom-img_table_21x21:before {
+  content: "\e94a";
+}
+.custom-img_graph:before {
+  content: "\e94b";
+}
+.custom-img_graph_21x21:before {
+  content: "\e94c";
+}
